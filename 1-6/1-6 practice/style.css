@@ -1,0 +1,15 @@
+* {
+  width: 0;
+  height: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.box1 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid #fa5893;
+}
+.forte {
+  color: #fa5893;
+}
